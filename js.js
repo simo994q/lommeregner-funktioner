@@ -10,6 +10,11 @@ function myCalcOne () {
 
 
 
+
+
+
+
+
 // Funktion 2
 myCalcTwo(1, 2)
 
@@ -17,6 +22,12 @@ function myCalcTwo (argOne, argTwo) {
     let result = argOne + argTwo
     console.log(result);
 };
+
+
+
+
+
+
 
 
 
@@ -31,6 +42,13 @@ function myCalcThree (argOne, argTwo) {
 function myCalcThreeResult (res) {
     console.log(res);
 }
+
+
+
+
+
+
+
 
 
 
